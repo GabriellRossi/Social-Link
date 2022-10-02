@@ -80,4 +80,5 @@ body {
   justify-content: center;
   gap: 29px;
   margin-bottom: 155px;
+  cursor: pointer;
 }
